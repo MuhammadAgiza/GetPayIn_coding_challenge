@@ -64,8 +64,8 @@ This project implements a robust, high-concurrency flash-sale checkout API in La
 
 1. **Clone the repo:**
    ```sh
-   git clone https://github.com/MuhammadAgiza/GetPayIn_coding_challenge
-   cd GetPayIn_coding_challenge
+   git clone https://github.com/MuhammadAgiza/Flash_Sale_Checkout_API
+   cd Flash_Sale_Checkout_API
    ```
 
 2. **Install dependencies:**
